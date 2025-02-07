@@ -12,6 +12,11 @@ You can install the GaiaNet on a wide variety of devices and operating systems w
 
 If you are hosting the node in your home or office, it needs access to the public Internet to join the GaiaNet network.
 
+> ALL THOUGH THIS IS THE IDEAL REQUIREMENT BUT YOU CAN ALSO RUN IN VPS WITH SPECS :
+| Specs                                   | Minimum Requirements     |
+| Cores                                   | 2 core to maximum        |
+| RAM                                     | 2 GB to maximum          |
+
 ## Supported on
 
 GaiaNet node software is designed to be cross-platform, allowing it to run on various CPU and GPU architectures. The GaiaNet installer automatically detects the presence of NVIDIA CUDA drivers and leverages the power of GPU accelerators on the device. More hardware support is on the way.
