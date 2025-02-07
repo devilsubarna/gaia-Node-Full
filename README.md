@@ -66,7 +66,7 @@ source /root/.bashrc
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-1.5-0.5b-chat/config.json
 ```
 
-For VPS Only
+## 🔶 For VPS Only
 ```
 screen -S gaia
 ```
@@ -102,11 +102,11 @@ gaianet info
 
 5️⃣ Check Your Points 
 
-Go:- https://tinyurl.com/ycyaxm7w
+Go:- [https://tinyurl.com/ycyaxm7w](https://www.gaianet.ai/reward?invite_code=RFGQUI)
 
-Refer Code:- RpwysF
+Refer Code:- RFGQUI
 
-## 🔶For Next Day Run This Command (Windows)
+## 🔶For Same Day as well as Next Day Run This Command (Windows)
 
 #1 Open WSL and Put this Command 
 ```
